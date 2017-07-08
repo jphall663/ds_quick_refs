@@ -1,11 +1,12 @@
-## An Aggregation of a Few Decent Data Science Quick references
+## An Aggregation of a Few Decent Data Science Quick References
 
 * [Glossary](#glossary)
 * [Best Practices](#best-practices)
 * [Algorithms: Part 1](#algos-1)
 * [Algorithms: Part 2](#algos-2)
 
-<a name='glossary' />
+<a name='glossary'/>
+
 ## Glossary
 
 #### Copyright (c) 2016 by H2O.ai team
@@ -78,7 +79,8 @@ Term | Definition|
 
 ***
 
-<a name='best-practices' />
+<a name='best-practices'/>
+
 ## Best Practices
 
 #### Copyright (c) 2016 by SAS Institute
@@ -86,7 +88,8 @@ Term | Definition|
 
 ![Alt text](low_res_PNG/MLQuickRefBestPractices.png?raw=true "General Best Practices Table")
 
-<a name='algos-1' />
+<a name='algos-1'/>
+
 ## Algorithms: Part 1
 
 #### Copyright (c) 2016 by SAS Institute
@@ -94,7 +97,8 @@ Term | Definition|
 
 ![Alt text](low_res_PNG/MLQuickRefAlgos1.PNG?raw=true "Mostly Supervised Algo Table")
 
-<a name='algos-2' />
+<a name='algos-2'/>
+
 ## Algorithms: Part 2
 
 #### Copyright (c) 2016 by SAS Institute
